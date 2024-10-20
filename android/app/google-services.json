@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863227552301",
+    "project_id": "social-media-app-bloc-fa8f5",
+    "storage_bucket": "social-media-app-bloc-fa8f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863227552301:android:e17ee8dd8d00e3a3234ea4",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app_bloc_001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLe_wVkpXVoKhel2y2IH6IqxOGUTtUreQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
